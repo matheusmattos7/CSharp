@@ -1,0 +1,15 @@
+/home/mattos/Balta/CSharp/TextEditor/bin/Debug/net6.0/TextEditor
+/home/mattos/Balta/CSharp/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/home/mattos/Balta/CSharp/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/home/mattos/Balta/CSharp/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/home/mattos/Balta/CSharp/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/refint/TextEditor.dll
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
+/home/mattos/Balta/CSharp/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
