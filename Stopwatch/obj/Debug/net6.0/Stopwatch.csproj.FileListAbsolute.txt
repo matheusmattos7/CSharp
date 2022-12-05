@@ -1,0 +1,15 @@
+/home/mattos/Balta/CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch
+/home/mattos/Balta/CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.deps.json
+/home/mattos/Balta/CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.runtimeconfig.json
+/home/mattos/Balta/CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.dll
+/home/mattos/Balta/CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.pdb
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.AssemblyReference.cache
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfoInputs.cache
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfo.cs
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.dll
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/refint/Stopwatch.dll
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.pdb
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.genruntimeconfig.cache
+/home/mattos/Balta/CSharp/Stopwatch/obj/Debug/net6.0/ref/Stopwatch.dll
