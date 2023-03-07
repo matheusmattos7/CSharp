@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mattos/Balta/CSharp/Dapper/Projeto_Blog/Projeto2.csproj": {}
+  },
+  "projects": {
+    "/home/mattos/Balta/CSharp/Dapper/Projeto_Blog/Projeto2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mattos/Balta/CSharp/Dapper/Projeto_Blog/Projeto2.csproj",
+        "projectName": "Projeto2",
+        "projectPath": "/home/mattos/Balta/CSharp/Dapper/Projeto_Blog/Projeto2.csproj",
+        "packagesPath": "/home/mattos/.nuget/packages/",
+        "outputPath": "/home/mattos/Balta/CSharp/Dapper/Projeto_Blog/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mattos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/mattos/.asdf/installs/dotnet-core/7.0.100/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
